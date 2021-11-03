@@ -9,6 +9,10 @@ namespace ConsoleApplication1
             Console.WriteLine("hello, Black");
         }
         
+        public static void greetWhite()
+        {
+            Console.WriteLine("hello, White");
+        }
         public static void Main(string[] args)
         {
             Console.WriteLine("hello everyone");      
