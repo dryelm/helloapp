@@ -4,9 +4,9 @@ namespace ConsoleApplication1
 {
     internal class Program
     {
-        public static void greetWhite()
+        public static void greetBlack()
         {
-            Console.WriteLine("hello, White");
+            Console.WriteLine("hello, Black");
         }
         
         public static void Main(string[] args)
